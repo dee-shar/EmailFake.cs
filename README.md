@@ -3,7 +3,6 @@ Web-API for [emailfake.com](https://emailfake.com) an website where you can get 
 
 ## Example
 ```cs
-using System;
 using EmailFakeApi;
 
 namespace Application
